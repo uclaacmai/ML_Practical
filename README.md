@@ -9,3 +9,5 @@ Overview
 * Workshop 3: Neural Networks
 * Workshop 4: Decision Trees and Random Forest
 * Workshop 5: k-Nearest Neighbors and other Model Evaluation Methods
+
+In case you missed our live workshops, check out our [recordings on YouTube!](https://www.youtube.com/playlist?list=PLPO7_kXilXFY9A7B42alWY_SGumccBhMb)
